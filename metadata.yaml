@@ -1,0 +1,39 @@
+_repo: Life-Of-Mozart-Vol.-3--of-3-_43413
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Grove, George
+    alias: Grove, Sir George
+    birthdate: 1820
+    deathdate: 1900
+    gutenberg_agent_id: '42192'
+    url: http://www.gutenberg.org/2009/agents/42192
+  translator:
+    agent_name: Townsend, Pauline D.
+    gutenberg_agent_id: '42193'
+    url: http://www.gutenberg.org/2009/agents/42193
+covers:
+- cover_type: archival
+  image_path: 43413-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jahn, Otto
+    alias: Iahn, Otto
+    birthdate: 1813
+    deathdate: 1869
+    gutenberg_agent_id: '36500'
+    url: http://www.gutenberg.org/2009/agents/36500
+description: ''
+gutenberg_issued: '2013-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mozart, Wolfgang Amadeus, 1756-1791'
+- !lcc 'ML'
+title: Life of Mozart, Vol. 3 (of 3)
+url: http://www.gutenberg.org/ebooks/43413
