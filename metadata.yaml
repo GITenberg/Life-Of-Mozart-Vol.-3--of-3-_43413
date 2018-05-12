@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '36500'
     url: http://www.gutenberg.org/2009/agents/36500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43413#Life-Of-Mozart-Vol.-3--of-3-
 gutenberg_issued: '2013-08-07'
 gutenberg_type: Text
 identifiers:
